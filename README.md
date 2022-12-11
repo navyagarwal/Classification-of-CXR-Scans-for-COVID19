@@ -1,6 +1,6 @@
-# DL-models_COVID-19_Radiography_Dataset
+# Classifying CXR Scans for COVID-19
 
-This repository contains the codes and research paper for our work on "Classifying Chest Radiography Scans for CPVID-19".
+This repository contains the codes and research paper for our work on "Classifying Chest Radiography Scans for COVID-19".
 
 Our research paper is published in IEEE Xplore as part of the conference proceedings of International Conference on Artificial Intelligence and Speech Technology (AIST) 2022, the annual conference hosted by Indira Gandhi Delhi Technical University for Women.
 
